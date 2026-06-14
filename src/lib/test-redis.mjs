@@ -1,7 +1,7 @@
 import { createClient } from 'redis';
 
 const client = createClient({
-    url: 'rediss://default:fyKigVxTsj9w1ll6XPqg9TnkT4ch1WeZ@redis-14498.crce263.ap-south-1-1.ec2.cloud.redislabs.com:14498',
+    url: 'URL',
 });
 
 client.on('error', console.error);
