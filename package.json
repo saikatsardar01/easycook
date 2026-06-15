@@ -20,7 +20,8 @@
 		"next": "15.5.9",
 		"react": "19.1.4",
 		"react-dom": "19.1.4",
-		"redis": "^5.12.1"
+		"redis": "^5.12.1",
+		"tree-node-cli": "^3.0.0"
 	},
 	"devDependencies": {
 		"@eslint/eslintrc": "^3",
